@@ -1,4 +1,4 @@
-# IoT---MQTT-Node-RED-Data-Pipeline
+# IoT-MQTT-Node-RED-Data-Pipeline
 This project implements an IoT data pipeline using MQTT, Node-RED, CSV logging, and ThingSpeak integration. It generates random IDs and timestamps, processes messages through multiple flows, filters publish events, logs acknowledgements, and visualizes temperature data.
 
 Main Tasks:
